@@ -1,5 +1,5 @@
 # Stripe Charger
- Nodejs AWS Lambda API for handles customer creation and Stripe card charges.
+ Nodejs AWS Lambda API for handles customer creation and Stripe simple checkout card charges.
  
 ## Up and running
 1. Create a new aws lambda function through the aws-console or aws-cli.
