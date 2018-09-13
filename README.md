@@ -1,4 +1,4 @@
-# stripeCharge
+# Stripe Charger
  Nodejs AWS Lambda API for handles customer creation and Stripe card charges.
  
 ## Up and running
