@@ -2,9 +2,8 @@
  Nodejs AWS Lambda API for handles customer creation and Stripe simple checkout card charges.
  
 ## Up and running
-1. Create a new aws lambda function through the aws-console or aws-cli.
-2. Set up aws env variables (use `test` key first) specified in the template.
-3. Create a Stripe simple checkout form: https://stripe.com/docs/quickstart
+1. Set up aws env variables (use `test` key first) specified in the template.
+2. Create a Stripe simple checkout form: https://stripe.com/docs/quickstart
 
 ## AWS Lambda ENV template
 - `STRIPE_SECRET_TEST_KEY = 'your-stripe-secret-test-key'`
